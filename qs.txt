@@ -1,0 +1,84 @@
+✅ Arrays
+Read n elements into an array and display them in reverse order.
+
+Find the deviations of n numbers (difference from mean).
+
+Perform Linear Search in an array.
+
+Implement Bubble Sort (ascending and/or descending).
+
+Implement Exchange Sort.
+
+Convert a Decimal number to Binary.
+
+Perform Binary Search on a sorted list.
+
+Display array elements removing duplicates.
+
+Count the occurrences of each number in an array.
+
+Find the number that has occurred most frequently.
+
+Find the second largest element in an array.
+
+Find the sum of odd numbers in an array.
+
+Arrange elements in descending order using bubble sort.
+
+✅ Matrices
+Find the largest element in an m x n matrix and display its position.
+
+Find the sum of diagonal elements of a square matrix.
+
+Display prime numbers in a matrix.
+
+Display Fibonacci numbers in a matrix.
+
+Find the sum of two m x n matrices.
+
+Perform matrix multiplication.
+
+Calculate the sum of each row and column in a matrix.
+
+Display palindrome numbers in a matrix.
+
+Calculate the sum of boundary elements in a matrix.
+
+Find the transpose of a matrix.
+
+Check if a matrix is symmetric or skew-symmetric.
+
+✅ Strings
+Find the number of vowels in a string.
+
+Convert a string to uppercase.
+
+Count the occurrence of a particular character in a string.
+
+Find the reverse of a string.
+
+Check if a string is a palindrome (without using string functions).
+
+Count the frequency of each digit in a string.
+
+Check whether a particular word is present in a string.
+
+Count the number of occurrences of a word in a string.
+
+Find the most frequently occurring alphabet in a line of text.
+
+Find the longest word in a line of text.
+
+Find the length of a string without using built-in functions.
+
+Count the number of words and lines in a string.
+
+✅ Number Theory & Misc
+Check if a number is an Armstrong number.
+
+Count the number of 1s in the binary representation using bitwise operators.
+
+Check if a number is prime.
+
+Check if a string is a palindrome (again, no string functions — already listed above).
+
